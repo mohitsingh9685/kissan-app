@@ -7,3 +7,5 @@ class ProfilePage extends StatelessWidget {
       appBar: AppBar(title: Text("Profile")),
       body: Center(child: Text("Profile Page")),
     );
+  }
+}
